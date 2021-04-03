@@ -5,7 +5,7 @@
 2. open the provided index.html file in your text editior. using the html link tag include the provided main.css to index.html inside <head> tag. (1 points)
 3. Inside body tag of index.html create heading h1 with text 'Covid Data' and below that add a horizonal line (hr) tag. (1 point)
 4. Add a heading h3 with text 'My state and its neighbours'. (1 points)
-5. Create a HTML table with headings => state, confirmed, active, recovered, decreased. (5 points)
+5. Create a HTML table with headings => state, confirmed, active, recovered, deceased. (5 points)
 6. Using https://covid19india.org as reference, get the respective data of atleast 4 states/UTs and put it inside html table of index.html. (20 points)
 7. Add a heading h3 with text 'Top 3 states/UT with most active cases'. (1 points)
 8. Create a html 'unordered' list with the the following list items => Maharashtra, Karnataka, Chhattisgarh. (3 points)
@@ -26,7 +26,7 @@ DO NOT SHARE YOUR SOURCE CODE WITH ANYONE NOR COPY FROM SOMEONE ELSE, IF FOUND G
 #### Date of submission => by April 5 2021, 7 PM IST
 
 ### If all the instructions are followed correctly, The output will look like this.
-![output](https://raw.githubusercontent.com/1941012973/cwc_web_dev_assigment/main/output.jpg)
+![output](https://raw.githubusercontent.com/1941012973/cwc_assigment/main/output.jpg)
 
 
 ```
