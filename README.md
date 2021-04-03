@@ -19,7 +19,8 @@
 Total points => 40
 Passing points => 32
 Failing to have the passing score will result in 1st warn and 2nd warn will result in removal from the web dev discord.
-Failing to submit the assigment will result in removal from web dev stack. 
+Failing to submit the assigment will result in removal from web dev stack.
+DO NOT SHARE YOUR SOURCE CODE WITH ANYONE NOR COPY FROM SOMEONE ELSE, IF FOUND GUILTY THE RESULT WITH BE REMOVAL FROM THE CLUB
 ```
 
 #### Date of submission => by April 5 2021, 7 PM IST
