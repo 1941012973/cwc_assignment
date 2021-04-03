@@ -26,7 +26,7 @@ DO NOT SHARE YOUR SOURCE CODE WITH ANYONE NOR COPY FROM SOMEONE ELSE, IF FOUND G
 #### Date of submission => by April 5 2021, 7 PM IST
 
 ### If all the instructions are followed correctly, The output will look like this.
-![output](https://raw.githubusercontent.com/1941012973/cwc_assigment/main/output.jpg)
+![output](https://raw.githubusercontent.com/1941012973/cwc_assignment/main/output.jpg)
 
 
 ```
