@@ -62,7 +62,7 @@ Prerna_)#3485 |
 RAJA#8035 |
 khushboo#8302 |
 Poushali#9251 | ✅
-adarsh5751#0429 |
+adarsh5751#0429 | ✅
 ashutosh#1824 |
 sharmilasamantaray#2611 | ✅
 whatever#1122 |
@@ -91,7 +91,7 @@ Elina#1609 | ✅
 mayanbose#6327 | ✅
 Anurag Raghuvanshi#8002 |
 DebuM4ster#0577 |
-Jyotiraditya#6865 |
+Jyotiraditya#6865 | ✅
 Shubhro#1049 |
 Saharsh Raj#9659 | ✅
 Smaranika#5333 |
